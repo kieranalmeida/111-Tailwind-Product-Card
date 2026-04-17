@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@theme {
+  --color-pale_orange: #ffd9a6;
+  --color-light_orange: #fbb03b;
+  --color-orange: #f7931e;
+  --font-sans: "Josefin Sans", sans-serif;
+  --font-title: "Playfair Display SC", serif;
+  --background-image-mobile: url('/src/images/bg-mobile.png');
+  --background-image-desktop: url('/src/images/bg-desktop.png');
+}
